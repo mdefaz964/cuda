@@ -1,0 +1,421 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.web{
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+    
+
+}
+.container{
+    width: 100%;
+    display: block;
+    float: left;
+}
+
+header{
+    background-color: #87509C;
+    width: 100%;
+    height: 360px;
+}
+header nav .container{
+    width: 100%;
+    float: left;
+}
+header nav .logo {
+    width: 25%;
+    float: left;
+}
+header nav .logo img {
+    width: 70px;
+    height: auto;
+    display: block;
+    float: left;
+    margin-left: 105px;
+    margin-top: 30px;
+}
+header nav .menu {
+    float: left;
+    margin-top: -15px;
+    margin-left: 338px;
+    width: 75%;
+    float: left;
+}
+header nav ul {
+    list-style: none;
+}
+header nav ul li {
+    display: inline;
+    margin-left: 41px;
+}
+header nav ul li a {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+header nav ul li a.active {
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+header nav .text {
+    width: 56%;
+    margin: 68px 194px;
+    display: block;
+}
+header nav .container .some {
+    color: #fff;
+    text-align: center;
+    font-size: 21px;
+}
+header nav button {
+    background-color: #EB7D4B;
+    margin: 0 auto;
+    display: block;
+    padding: 15px 35px;
+    border-radius: 5px;
+    color: #ffff;
+    margin-top: 45px;
+}
+
+/* <!--------------------service--------------------- --> */
+.stwo {
+    height: 360px;
+    width: 100%;
+    background-color: #17C2A3;
+    height: 420px;
+
+}
+.stwo span {
+    border-bottom: 2px solid #dddd;
+    margin: 0 auto;
+    display: block;
+    height: 14px;
+    width: 94px;
+}
+.services {
+    text-align: center;
+    padding-top: 57px;
+    color: #fff;
+    font-size: 25px;
+    word-spacing: 8px;
+    text-transform: uppercase;
+}
+.working {
+    text-align: center;
+    margin-top: 12px;
+    color: #fff;
+    font-size: 16px;
+}
+.first{
+    width: 22%;
+    display: block;
+    float: left;
+    margin-left: 24px;
+
+}
+.first img {
+    width: 70px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 70px;
+    height: 70px;
+}
+.first h3 {
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 4px 0;
+}
+.first p {
+    text-align: center;
+    color: #fff;
+    margin-top: 24px;
+}
+.sthree {
+    background-color: #D3D3D3;
+    width: 100%;
+    height: 450px;
+    display: block;
+    float: left;
+}
+
+.sthree span {
+    border-bottom: 2px solid #dddd;
+    margin: 0 auto;
+    display: block;
+    height: 14px;
+    width: 94px;
+}
+.sfive {
+    background-color: #afd4d470;
+}
+.services {
+    text-align: center;
+    padding-top: 57px;
+    color: #00000094;
+    font-size: 25px;
+    word-spacing: 8px;
+    text-transform: uppercase;
+}
+.working {
+    text-align: center;
+    margin-top: 12px;
+    color: #00000094;
+    font-size: 16px;
+}
+.second {
+    width: 22%;
+    display: block;
+    float: left;
+    margin-left: 24px;
+    padding-bottom: 25px;
+}
+.second .ami {
+    border: 2px solid black;
+    display: block;
+    margin: 0 auto;
+    border-radius: 53%;
+    width: 134px;
+    height: 122px;
+    overflow: hidden;
+}
+.second img {
+    width: 139px;
+    /* margin: 0 auto; */
+    display: block;
+    height: 119px;
+    margin-top: 0px;
+}
+.second h3 {
+  
+    text-transform: uppercase;
+    text-align: center;
+    margin: 15px 0;
+}
+.second p {
+    text-align: center;
+   
+    margin-top: 24px;
+}
+.sfours {
+    width: 100%;
+    float: left;
+ 
+}
+.occupation {
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: -15px;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+}
+
+.second .skil {
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+    height: 151px;
+    /* margin-top: 0px; */
+}
+.second .design {
+    text-align: center;
+    width: 160px;
+    height: 30px;
+}
+.sefaz {
+    width: 22%;
+    height: auto;
+    display: block;
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.dem{
+    background-color:#FEDB97;
+    width: 100%;
+    height: auto;
+}
+.ssix {
+    background-color: #FEDB97;
+}
+.container .cse {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 41px;
+}}
+.container .man{
+    
+}
+
+
+.container .eee {
+    text-align: center;
+    margin-top: 20px;
+}
+.group {
+    
+    
+    width: 385px;
+    margin: 25px auto;
+    display: block;
+    height: 45px;
+}
+.container .btn {
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    display: block;
+    margin-left: 16px;
+    float: left;
+    background-color: antiquewhite;
+}
+.container .port {
+    width: 45%;
+    display: block;
+    float: left;
+    margin-bottom: 45px;
+    margin-left: 42px;
+}
+.port img {
+    width: 100%;
+}
+.port .sit {
+    text-align: center;
+    font-size: 20px;
+}
+.sten {
+    background-color: #D74681;
+}
+.what {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 45px;
+    color: #fff;
+}
+.aya{
+
+}
+
+.adr {
+    text-align: center;
+    margin-top: 22px;
+    font-size: 20px;
+    color: #fff;
+}
+.peop {
+    width: 42%;
+    padding: 45px 0px;
+    display: block;
+    margin-left: 54px;
+    float: left;
+}
+.peop img {
+    width: 78px;
+    border-radius: 50%;
+    display: block;
+    float: left;
+    margin-right: 20px;
+}
+.peop .dis{
+    
+}
+.peop .dis .sim{
+    color: #fff;
+    
+}
+.peop .dis .selin {
+    font-size: 20px;
+    font-weight: 800;
+    color: #fff;
+}
+.peop .dis .juna {
+   
+    color: #F2BF5A;
+}
+
+.seleven{
+
+    background-color: #3D549A;
+}
+
+.lal {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 25px;
+    font-size: 25px;
+  color: #fff;
+}
+.dig {
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+    margin-top: 20px;
+    height: 45px;
+}
+.aziz {
+    width: 40%;
+    display: block;
+    float: left;
+    margin-top: 60px;
+    border-radius: 12px;
+    border: none;
+    height: 45px;
+    margin-left: 48px;
+    background-color: #0D3153;
+}
+.skib {
+    width: 40%;
+    margin-left: 83px;
+    height: 45px;
+    margin-top: 60px;
+    border-radius: 12px;
+    border: none;
+    background-color: #0D3153;
+}
+.rohan {
+    background-color: #0D3153;
+    margin-left: 51px;
+    margin-top: 20px;
+    width: 830px;
+    border-radius: 18px;
+    height: 139px;
+}
+input::placeholder{
+    color: #fff;
+    margin-left: 50px;
+    text-transform: uppercase;
+}
+.container .ham {
+    margin: 30px auto;
+    padding: 14px 35px;
+    display: block;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+    box-shadow: 0px 0px 23px #fff;
+    background-color: #30CFC0;
+}
+.footer {
+    background-color: #343c88;
+    /* width: 29px; */
+    height: 61px;
+}
+footer .ois {
+    list-style: none;
+    line-height: 50px;
+    color: #fff;
+}
+footer .ois li {
+    display: inline;
+    margin-left: 99px;
+    text-transform: uppercase;
+   
+}
+
+
+
+
